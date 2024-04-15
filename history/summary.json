@@ -4,19 +4,19 @@
     "url": "https://parabible.com",
     "icon": "https://icons.duckduckgo.com/ip3/parabible.com.ico",
     "slug": "parabible",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 221,
-    "timeWeek": 248,
-    "timeMonth": 235,
-    "timeYear": 265,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "84.04%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.92%",
+    "time": 264,
+    "timeDay": 186,
+    "timeWeek": 236,
+    "timeMonth": 233,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2024-04-15": 0
+      "2024-04-15": 230
     }
   },
   {
