@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/parabible.com.ico",
     "slug": "parabible",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 262,
-    "timeDay": 200,
-    "timeWeek": 252,
+    "timeDay": 309,
+    "timeWeek": 271,
     "timeMonth": 242,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 157,
-    "timeDay": 137,
-    "timeWeek": 161,
-    "timeMonth": 155,
+    "timeDay": 178,
+    "timeWeek": 157,
+    "timeMonth": 156,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2023-10-30": 26
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 380,
-    "timeWeek": 667,
-    "timeMonth": 627,
-    "timeYear": 665,
+    "time": 666,
+    "timeDay": 892,
+    "timeWeek": 731,
+    "timeMonth": 626,
+    "timeYear": 666,
     "dailyMinutesDown": {}
   }
 ]
