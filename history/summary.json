@@ -44,19 +44,19 @@
     "url": "https://rekindle.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/rekindle.co.za.ico",
     "slug": "rekindle",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 668,
-    "timeDay": 881,
-    "timeWeek": 757,
-    "timeMonth": 665,
-    "timeYear": 668,
+    "time": 667,
+    "timeDay": 707,
+    "timeWeek": 713,
+    "timeMonth": 656,
+    "timeYear": 667,
     "dailyMinutesDown": {
-      "2024-05-07": 20
+      "2024-05-07": 35
     }
   }
 ]
