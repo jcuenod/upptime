@@ -44,11 +44,11 @@
     "url": "https://rekindle.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/rekindle.co.za.ico",
     "slug": "rekindle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 667,
     "timeDay": 707,
@@ -56,7 +56,7 @@
     "timeMonth": 656,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2024-05-07": 35
+      "2024-05-07": 20
     }
   }
 ]
