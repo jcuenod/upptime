@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 260,
-    "timeDay": 272,
-    "timeWeek": 259,
+    "time": 259,
+    "timeDay": 121,
+    "timeWeek": 234,
     "timeMonth": 236,
-    "timeYear": 260,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2024-04-15": 230
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 161,
-    "timeDay": 194,
-    "timeWeek": 159,
-    "timeMonth": 179,
+    "timeDay": 102,
+    "timeWeek": 149,
+    "timeMonth": 177,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2023-10-30": 26
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rekindle.co.za.ico",
     "slug": "rekindle",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 678,
-    "timeDay": 920,
-    "timeWeek": 732,
-    "timeMonth": 694,
-    "timeYear": 678,
+    "uptimeYear": "99.99%",
+    "time": 677,
+    "timeDay": 324,
+    "timeWeek": 722,
+    "timeMonth": 684,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2024-05-07": 55
     }
