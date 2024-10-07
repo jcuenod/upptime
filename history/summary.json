@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 263,
-    "timeDay": 244,
-    "timeWeek": 255,
-    "timeMonth": 264,
-    "timeYear": 263,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 257,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2024-04-15": 230
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fixpdfs.com.ico",
     "slug": "fix-pd-fs",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 167,
-    "timeDay": 172,
-    "timeWeek": 193,
-    "timeMonth": 178,
-    "timeYear": 167,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 179,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2023-10-30": 26
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 704,
-    "timeDay": 1040,
-    "timeWeek": 747,
-    "timeMonth": 852,
-    "timeYear": 704,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 886,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2024-05-07": 55
     }
