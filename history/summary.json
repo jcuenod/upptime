@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 265,
-    "timeDay": 268,
-    "timeWeek": 296,
-    "timeMonth": 297,
-    "timeYear": 265,
+    "timeDay": 347,
+    "timeWeek": 286,
+    "timeMonth": 300,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2024-04-15": 230
     }
@@ -31,13 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 150,
-    "timeWeek": 191,
-    "timeMonth": 223,
+    "timeDay": 242,
+    "timeWeek": 196,
+    "timeMonth": 222,
     "timeYear": 172,
-    "dailyMinutesDown": {
-      "2023-10-30": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rekindle",
@@ -51,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 717,
-    "timeDay": 590,
-    "timeWeek": 664,
-    "timeMonth": 919,
-    "timeYear": 711,
+    "timeDay": 878,
+    "timeWeek": 737,
+    "timeMonth": 933,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2024-05-07": 55
     }
