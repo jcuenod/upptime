@@ -22,18 +22,20 @@
     "url": "https://fixpdfs.com",
     "icon": "https://icons.duckduckgo.com/ip3/fixpdfs.com.ico",
     "slug": "fix-pd-fs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 143,
-    "timeWeek": 207,
-    "timeMonth": 225,
-    "timeYear": 213,
-    "dailyMinutesDown": {}
+    "time": 207,
+    "timeDay": 999,
+    "timeWeek": 413,
+    "timeMonth": 278,
+    "timeYear": 217,
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "Rekindle",
