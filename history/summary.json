@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 3630,
-    "timeWeek": 738,
-    "timeMonth": 395,
-    "timeYear": 301,
+    "time": 293,
+    "timeDay": 1260,
+    "timeWeek": 880,
+    "timeMonth": 426,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "fix-pd-fs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 812,
-    "timeWeek": 416,
-    "timeMonth": 283,
+    "timeDay": 883,
+    "timeWeek": 435,
+    "timeMonth": 286,
     "timeYear": 218,
-    "dailyMinutesDown": {
-      "2025-10-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rekindle",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
     "time": 824,
-    "timeDay": 353,
-    "timeWeek": 1091,
-    "timeMonth": 913,
+    "timeDay": 839,
+    "timeWeek": 1083,
+    "timeMonth": 925,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2025-08-10": 226,
