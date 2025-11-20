@@ -6,14 +6,14 @@
     "slug": "parabible",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "88.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.31%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 297,
-    "timeDay": 271,
-    "timeWeek": 271,
-    "timeMonth": 295,
+    "timeDay": 345,
+    "timeWeek": 283,
+    "timeMonth": 297,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2025-11-18": 170
@@ -26,14 +26,14 @@
     "slug": "fix-pd-fs",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "85.21%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.89%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.96%",
     "time": 220,
-    "timeDay": 1217,
-    "timeWeek": 653,
-    "timeMonth": 345,
+    "timeDay": 189,
+    "timeWeek": 648,
+    "timeMonth": 341,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-11-18": 213
@@ -49,17 +49,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.31%",
-    "time": 823,
-    "timeDay": 899,
-    "timeWeek": 607,
-    "timeMonth": 600,
-    "timeYear": 829,
+    "uptimeYear": "99.59%",
+    "time": 813,
+    "timeDay": 279,
+    "timeWeek": 546,
+    "timeMonth": 589,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2025-08-10": 226,
       "2024-12-24": 18,
-      "2024-11-21": 575,
-      "2024-11-20": 1440
+      "2024-11-21": 575
     }
   }
 ]
